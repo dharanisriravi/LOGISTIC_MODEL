@@ -82,27 +82,26 @@ The model will classify it as either:
 🔴 FAKE News
 
 ## Requirements
-  Python 3.7+
 
-  Flask
+  - Python 3.7+
 
-  pandas
+  - Flask
 
-  scikit-learn
+  - pandas
 
-  numpy
+  - scikit-learn
+
+  - numpy
 
 
 ## Future Improvements
-  Use larger, real-world datasets (e.g., Kaggle)
+  - Use larger, real-world datasets (e.g., Kaggle)
 
-  Add Naive Bayes or advanced ML models
+  - Add Naive Bayes or advanced ML models
 
-  Deploy to Heroku or Render for live use
+  - Deploy to Heroku or Render for live use
 
-  Add database logging for submitted texts
+  - Add database logging for submitted texts
 
-  Add graphs and analytics for prediction insights
+  - Add graphs and analytics for prediction insights
 
-## Author
-  R.DHARANI SRI.
